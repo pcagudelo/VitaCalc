@@ -1,0 +1,1476 @@
+[
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 102,
+  "nombre_pais": "AUSTRIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 103,
+  "nombre_pais": "BELGICA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 104,
+  "nombre_pais": "BULGARIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 106,
+  "nombre_pais": "CHIPRE"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 107,
+  "nombre_pais": "DINAMARCA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 108,
+  "nombre_pais": "ESPAÑA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 109,
+  "nombre_pais": "FINLANDIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 110,
+  "nombre_pais": "FRANCIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 111,
+  "nombre_pais": "GRECIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 112,
+  "nombre_pais": "HUNGRIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 113,
+  "nombre_pais": "IRLANDA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 115,
+  "nombre_pais": "ITALIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 117,
+  "nombre_pais": "LUXEMBURGO"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 118,
+  "nombre_pais": "MALTA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 121,
+  "nombre_pais": "PAISES BAJOS"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 122,
+  "nombre_pais": "POLONIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 123,
+  "nombre_pais": "PORTUGAL"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 125,
+  "nombre_pais": "REINO UNIDO"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 126,
+  "nombre_pais": "ALEMANIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 128,
+  "nombre_pais": "RUMANIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 131,
+  "nombre_pais": "SUECIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 136,
+  "nombre_pais": "LETONIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 141,
+  "nombre_pais": "ESTONIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 142,
+  "nombre_pais": "LITUANIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 143,
+  "nombre_pais": "REPUBLICA CHECA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 144,
+  "nombre_pais": "REPUBLICA ESLOVACA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 147,
+  "nombre_pais": "ESLOVENIA"
+ },
+ {
+  "cod_continente": 1,
+  "nombre_continente": "UNIÓN EUROPEA",
+  "codigo_pais": 198,
+  "nombre_pais": "OTROS PAISES O TERRITORIOS DE LA UNION EUROPEA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 101,
+  "nombre_pais": "ALBANIA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 114,
+  "nombre_pais": "ISLANDIA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 116,
+  "nombre_pais": "LIECHTENSTEIN"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 119,
+  "nombre_pais": "MONACO"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 120,
+  "nombre_pais": "NORUEGA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 124,
+  "nombre_pais": "ANDORRA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 129,
+  "nombre_pais": "SAN MARINO"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 130,
+  "nombre_pais": "SANTA SEDE"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 132,
+  "nombre_pais": "SUIZA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 135,
+  "nombre_pais": "UCRANIA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 137,
+  "nombre_pais": "MOLDAVIA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 138,
+  "nombre_pais": "BELARUS"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 139,
+  "nombre_pais": "GEORGIA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 145,
+  "nombre_pais": "BOSNIA Y HERZEGOVINA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 146,
+  "nombre_pais": "CROACIA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 148,
+  "nombre_pais": "ARMENIA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 154,
+  "nombre_pais": "RUSIA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 156,
+  "nombre_pais": "MACEDONIA "
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 157,
+  "nombre_pais": "SERBIA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 158,
+  "nombre_pais": "MONTENEGRO"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 170,
+  "nombre_pais": "GUERNESEY"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 171,
+  "nombre_pais": "SVALBARD Y JAN MAYEN"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 172,
+  "nombre_pais": "ISLAS FEROE"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 173,
+  "nombre_pais": "ISLA DE MAN"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 174,
+  "nombre_pais": "GIBRALTAR"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 175,
+  "nombre_pais": "ISLAS DEL CANAL"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 176,
+  "nombre_pais": "JERSEY"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 177,
+  "nombre_pais": "ISLAS ALAND"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 436,
+  "nombre_pais": "TURQUIA"
+ },
+ {
+  "cod_continente": 2,
+  "nombre_continente": "RESTO DE EUROPA",
+  "codigo_pais": 199,
+  "nombre_pais": "OTROS PAISES O TERRITORIOS DEL RESTO DE EUROPA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 201,
+  "nombre_pais": "BURKINA FASO"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 202,
+  "nombre_pais": "ANGOLA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 203,
+  "nombre_pais": "ARGELIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 204,
+  "nombre_pais": "BENIN"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 205,
+  "nombre_pais": "BOTSWANA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 206,
+  "nombre_pais": "BURUNDI"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 207,
+  "nombre_pais": "CABO VERDE"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 208,
+  "nombre_pais": "CAMERUN"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 209,
+  "nombre_pais": "COMORES"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 210,
+  "nombre_pais": "CONGO"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 211,
+  "nombre_pais": "COSTA DE MARFIL"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 212,
+  "nombre_pais": "DJIBOUTI"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 213,
+  "nombre_pais": "EGIPTO"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 214,
+  "nombre_pais": "ETIOPIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 215,
+  "nombre_pais": "GABON"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 216,
+  "nombre_pais": "GAMBIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 217,
+  "nombre_pais": "GHANA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 218,
+  "nombre_pais": "GUINEA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 219,
+  "nombre_pais": "GUINEA-BISSAU"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 220,
+  "nombre_pais": "GUINEA ECUATORIAL"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 221,
+  "nombre_pais": "KENIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 222,
+  "nombre_pais": "LESOTHO"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 223,
+  "nombre_pais": "LIBERIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 224,
+  "nombre_pais": "LIBIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 225,
+  "nombre_pais": "MADAGASCAR"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 226,
+  "nombre_pais": "MALAWI"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 227,
+  "nombre_pais": "MALI"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 228,
+  "nombre_pais": "MARRUECOS"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 229,
+  "nombre_pais": "MAURICIO"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 230,
+  "nombre_pais": "MAURITANIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 231,
+  "nombre_pais": "MOZAMBIQUE"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 232,
+  "nombre_pais": "NAMIBIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 233,
+  "nombre_pais": "NIGER"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 234,
+  "nombre_pais": "NIGERIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 235,
+  "nombre_pais": "REPUBLICA CENTROAFRICANA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 236,
+  "nombre_pais": "SUDAFRICA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 237,
+  "nombre_pais": "RUANDA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 238,
+  "nombre_pais": "SANTO TOME Y PRINCIPE"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 239,
+  "nombre_pais": "SENEGAL"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 240,
+  "nombre_pais": "SEYCHELLES"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 241,
+  "nombre_pais": "SIERRA LEONA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 242,
+  "nombre_pais": "SOMALIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 243,
+  "nombre_pais": "SUDAN"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 244,
+  "nombre_pais": "SWAZILANDIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 245,
+  "nombre_pais": "TANZANIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 246,
+  "nombre_pais": "CHAD"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 247,
+  "nombre_pais": "TOGO"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 248,
+  "nombre_pais": "TUNEZ"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 249,
+  "nombre_pais": "UGANDA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 250,
+  "nombre_pais": "REP.DEMOCRATICA DEL CONGO"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 251,
+  "nombre_pais": "ZAMBIA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 252,
+  "nombre_pais": "ZIMBABWE"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 253,
+  "nombre_pais": "ERITREA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 260,
+  "nombre_pais": "SANTA HELENA"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 261,
+  "nombre_pais": "REUNION"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 262,
+  "nombre_pais": "MAYOTTE"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 263,
+  "nombre_pais": "SAHARA OCCIDENTAL"
+ },
+ {
+  "cod_continente": 3,
+  "nombre_continente": "AFRICA",
+  "codigo_pais": 299,
+  "nombre_pais": "OTROS PAISES O TERRITORIOS DE AFRICA"
+ },
+ {
+  "cod_continente": 4,
+  "nombre_continente": "AMERICA DEL NORTE",
+  "codigo_pais": 301,
+  "nombre_pais": "CANADA"
+ },
+ {
+  "cod_continente": 4,
+  "nombre_continente": "AMERICA DEL NORTE",
+  "codigo_pais": 302,
+  "nombre_pais": "ESTADOS UNIDOS DE AMERICA"
+ },
+ {
+  "cod_continente": 4,
+  "nombre_continente": "AMERICA DEL NORTE",
+  "codigo_pais": 303,
+  "nombre_pais": "MEXICO"
+ },
+ {
+  "cod_continente": 4,
+  "nombre_continente": "AMERICA DEL NORTE",
+  "codigo_pais": 370,
+  "nombre_pais": "SAN PEDRO Y MIQUELON "
+ },
+ {
+  "cod_continente": 4,
+  "nombre_continente": "AMERICA DEL NORTE",
+  "codigo_pais": 371,
+  "nombre_pais": "GROENLANDIA"
+ },
+ {
+  "cod_continente": 4,
+  "nombre_continente": "AMERICA DEL NORTE",
+  "codigo_pais": 396,
+  "nombre_pais": "OTROS PAISES  O TERRITORIOS DE AMERICA DEL NORTE"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 310,
+  "nombre_pais": "ANTIGUA Y BARBUDA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 311,
+  "nombre_pais": "BAHAMAS"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 312,
+  "nombre_pais": "BARBADOS"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 313,
+  "nombre_pais": "BELICE"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 314,
+  "nombre_pais": "COSTA RICA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 315,
+  "nombre_pais": "CUBA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 316,
+  "nombre_pais": "DOMINICA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 317,
+  "nombre_pais": "EL SALVADOR"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 318,
+  "nombre_pais": "GRANADA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 319,
+  "nombre_pais": "GUATEMALA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 320,
+  "nombre_pais": "HAITI"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 321,
+  "nombre_pais": "HONDURAS"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 322,
+  "nombre_pais": "JAMAICA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 323,
+  "nombre_pais": "NICARAGUA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 324,
+  "nombre_pais": "PANAMA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 325,
+  "nombre_pais": "SAN VICENTE Y LAS GRANADINAS"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 326,
+  "nombre_pais": "REPUBLICA DOMINICANA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 327,
+  "nombre_pais": "TRINIDAD Y TOBAGO"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 328,
+  "nombre_pais": "SANTA LUCIA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 329,
+  "nombre_pais": "SAN CRISTOBAL Y NIEVES"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 380,
+  "nombre_pais": "ISLAS CAIMÁN"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 381,
+  "nombre_pais": "ISLAS TURCAS Y CAICOS"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 382,
+  "nombre_pais": "ISLAS VÍRGENES DE LOS ESTADOS UNIDOS"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 383,
+  "nombre_pais": "GUADALUPE"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 384,
+  "nombre_pais": "ANTILLAS HOLANDESAS"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 385,
+  "nombre_pais": "SAN MARTIN (PARTE FRANCESA)"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 386,
+  "nombre_pais": "ARUBA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 387,
+  "nombre_pais": "MONTSERRAT"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 388,
+  "nombre_pais": "ANGUILLA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 389,
+  "nombre_pais": "SAN BARTOLOME"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 390,
+  "nombre_pais": "MARTINICA"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 391,
+  "nombre_pais": "PUERTO RICO"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 392,
+  "nombre_pais": "BERMUDAS"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 393,
+  "nombre_pais": "ISLAS VIRGENES BRITANICAS"
+ },
+ {
+  "cod_continente": 5,
+  "nombre_continente": "CENTRO AMERICA Y CARIBE",
+  "codigo_pais": 398,
+  "nombre_pais": "OTROS PAISES O TERRITORIOS DEL CARIBE Y AMERICA CENTRAL"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 340,
+  "nombre_pais": "ARGENTINA"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 341,
+  "nombre_pais": "BOLIVIA"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 342,
+  "nombre_pais": "BRASIL"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 343,
+  "nombre_pais": "COLOMBIA"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 344,
+  "nombre_pais": "CHILE"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 345,
+  "nombre_pais": "ECUADOR"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 346,
+  "nombre_pais": "GUYANA"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 347,
+  "nombre_pais": "PARAGUAY"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 348,
+  "nombre_pais": "PERU"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 349,
+  "nombre_pais": "SURINAM"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 350,
+  "nombre_pais": "URUGUAY"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 351,
+  "nombre_pais": "VENEZUELA"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 394,
+  "nombre_pais": "GUAYANA FRANCESA"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 395,
+  "nombre_pais": "ISLAS MALVINAS"
+ },
+ {
+  "cod_continente": 6,
+  "nombre_continente": "SUDAMERICA",
+  "codigo_pais": 399,
+  "nombre_pais": "OTROS PAISES O TERRITORIOS  DE SUDAMERICA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 401,
+  "nombre_pais": "AFGANISTAN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 402,
+  "nombre_pais": "ARABIA SAUDI"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 403,
+  "nombre_pais": "BAHREIN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 404,
+  "nombre_pais": "BANGLADESH"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 405,
+  "nombre_pais": "MYANMAR"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 407,
+  "nombre_pais": "CHINA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 408,
+  "nombre_pais": "EMIRATOS ARABES UNIDOS"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 409,
+  "nombre_pais": "FILIPINAS"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 410,
+  "nombre_pais": "INDIA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 411,
+  "nombre_pais": "INDONESIA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 412,
+  "nombre_pais": "IRAQ"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 413,
+  "nombre_pais": "IRAN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 414,
+  "nombre_pais": "ISRAEL"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 415,
+  "nombre_pais": "JAPON"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 416,
+  "nombre_pais": "JORDANIA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 417,
+  "nombre_pais": "CAMBOYA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 418,
+  "nombre_pais": "KUWAIT"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 419,
+  "nombre_pais": "LAOS"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 420,
+  "nombre_pais": "LIBANO"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 421,
+  "nombre_pais": "MALASIA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 422,
+  "nombre_pais": "MALDIVAS"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 423,
+  "nombre_pais": "MONGOLIA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 424,
+  "nombre_pais": "NEPAL"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 425,
+  "nombre_pais": "OMAN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 426,
+  "nombre_pais": "PAKISTAN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 427,
+  "nombre_pais": "QATAR"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 430,
+  "nombre_pais": "COREA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 431,
+  "nombre_pais": "COREA DEL NORTE "
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 432,
+  "nombre_pais": "SINGAPUR"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 433,
+  "nombre_pais": "SIRIA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 434,
+  "nombre_pais": "SRI LANKA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 435,
+  "nombre_pais": "TAILANDIA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 437,
+  "nombre_pais": "VIETNAM"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 439,
+  "nombre_pais": "BRUNEI"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 440,
+  "nombre_pais": "ISLAS MARSHALL"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 441,
+  "nombre_pais": "YEMEN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 442,
+  "nombre_pais": "AZERBAIYAN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 443,
+  "nombre_pais": "KAZAJSTAN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 444,
+  "nombre_pais": "KIRGUISTAN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 445,
+  "nombre_pais": "TADYIKISTAN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 446,
+  "nombre_pais": "TURKMENISTAN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 447,
+  "nombre_pais": "UZBEKISTAN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 448,
+  "nombre_pais": "ISLAS MARIANAS DEL NORTE"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 449,
+  "nombre_pais": "PALESTINA"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 450,
+  "nombre_pais": "HONG KONG"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 453,
+  "nombre_pais": "BHUTÁN"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 454,
+  "nombre_pais": "GUAM"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 455,
+  "nombre_pais": "MACAO"
+ },
+ {
+  "cod_continente": 7,
+  "nombre_continente": "ASIA",
+  "codigo_pais": 499,
+  "nombre_pais": "OTROS PAISES O TERRITORIOS DE ASIA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 501,
+  "nombre_pais": "AUSTRALIA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 502,
+  "nombre_pais": "FIJI"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 504,
+  "nombre_pais": "NUEVA ZELANDA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 505,
+  "nombre_pais": "PAPUA NUEVA GUINEA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 506,
+  "nombre_pais": "ISLAS SALOMON"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 507,
+  "nombre_pais": "SAMOA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 508,
+  "nombre_pais": "TONGA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 509,
+  "nombre_pais": "VANUATU"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 511,
+  "nombre_pais": "MICRONESIA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 512,
+  "nombre_pais": "TUVALU"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 513,
+  "nombre_pais": "ISLAS COOK"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 515,
+  "nombre_pais": "NAURU"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 516,
+  "nombre_pais": "PALAOS"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 517,
+  "nombre_pais": "TIMOR ORIENTAL"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 520,
+  "nombre_pais": "POLINESIA FRANCESA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 521,
+  "nombre_pais": "ISLA NORFOLK"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 522,
+  "nombre_pais": "KIRIBATI"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 523,
+  "nombre_pais": "NIUE"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 524,
+  "nombre_pais": "ISLAS PITCAIRN"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 525,
+  "nombre_pais": "TOKELAU"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 526,
+  "nombre_pais": "NUEVA CALEDONIA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 527,
+  "nombre_pais": "WALLIS Y FORTUNA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 528,
+  "nombre_pais": "SAMOA AMERICANA"
+ },
+ {
+  "cod_continente": 8,
+  "nombre_continente": "OCEANÍA",
+  "codigo_pais": 599,
+  "nombre_pais": "OTROS PAISES O TERRITORIOS DE OCEANIA"
+ }
+]
