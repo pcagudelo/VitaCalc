@@ -238,9 +238,7 @@ function presistencia(event){
             <h5>Calculo de viaticos</h5>
             <div class="form-check form-switch">
               <label class="form-check-label" for="movilidadInternaciional">Internacional</label>
-              <input class="form-check-input" type="checkbox" v-model="movilidadInternacional">
-              <div>{{ movilidadInternacional }}</div>
-              
+              <input class="form-check-input" type="checkbox" v-model="movilidadInternacional">             
             </div>
             
             <!--EN DESARROLO Internacional -->
@@ -258,7 +256,10 @@ function presistencia(event){
                 </div>
               </div>
               <div class="col-6" v-show="movilidadInternacional==true">  
-                Datos internacionales
+                <div class="form-floating">
+                      <input type="text" class="form-control"  v-model="destino">
+                      <label>Destino</label>
+                    </div>
               </div>
               <div class="col-6"><!--Dias y Boton Guardar-->
                 <div class="row">
