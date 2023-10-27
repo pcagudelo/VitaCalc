@@ -32,30 +32,26 @@
   let transporteAereo= ref(0);
   let transporteTerrestre= ref(0);
   let nombreBeneficiario=ref("Juan Julio Salgado Espinosa");
- 
+
   //movilidad internacionla: Pendiente
-  let movilidadInternacional=ref(0);
-  const ext2={paises:[302,301,303,344,6,391],continente:[3] } ;
-  const ext3={paises:[340], contienente:[1,2,7,8]} 
-  const ext1={paises:[], contienente:[4,5,6]}
-  
-  //Determinar con base al pais seleccinado
-  //que tipo de movilidad internacional es
-  function determinarExtension(ext){
+    let movilidadInternacional=ref(false); 
+    const ext2={paises:[302,301,303,344,6,391],continente:[3] } ;
+    const ext3={paises:[340], contienente:[1,2,7,8]} 
+    const ext1={paises:[], contienente:[4,5,6]}
+    let destinoInternacional=ref(3)
+    function determinarExtension(ext){
 
-    if(ext2.paises.includes(ext.pais)){
-      return 2
-    }else if(ext2.continente.includes(ext.continente)){
-      return 2
-    }else if(ext3.paises.includes(ext.pais)){
-      return 3
-    } else if(ext3.contienente.includes(ext.continente)){
-      return 3
-    }else return 1
-
-  }
-  
-  let destinoInternacional=ref(343);
+      if(ext2.paises.includes(ext.pais)){
+        return 2
+      }else if(ext2.continente.includes(ext.continente)){
+        return 2
+      }else if(ext3.paises.includes(ext.pais)){
+        return 3
+      } else if(ext3.contienente.includes(ext.continente)){
+        return 3
+      }else return 1
+    }
+  //fin movilidad internaciona-
 
   //Segun la distancio y si pasa la noche en otro lugar se define el multiplo por el cual se calcula
   //[Estado: Works]
@@ -133,6 +129,7 @@
   const  elimarItem=(item)=>{viaticos.value.splice(item,1)}
   //Suma El total de los dias ya que seran usados para el transporte interno.
  //[Estado: Works]
+ //Abastraccion: Posible
   const totalViaticosDias= computed(()=>{
       let total=0;
       for(let viatico of viaticos.value ){
@@ -169,7 +166,7 @@ const totalViaticosTransporte = computed(()=>{
 
 });
 
-
+//abastracto: Yes
 function moneda(variable){
 
   const valor= new Intl.NumberFormat("es-CO",{style: 'currency',minimumFractionDigits: 2, currency: 'COP'}).format(variable); 
@@ -203,7 +200,7 @@ function presistencia(event){
           
           <h6>Tipo de Benefeficiario</h6>
           <div class="form-check form-switch">      
-              <label class="form-check-label" for="tipoBeneficiario">Estudiante</label>
+              <label class="form-check-label" >Estudiante</label>
               <input class="form-check-input"  type="checkbox" v-model="calculadoraTipoBeneficiario">
           </div>
 
@@ -216,7 +213,7 @@ function presistencia(event){
             </div>
 
             <div class="col-lg-6 col-sm-12">
-            <!-- Segun tipo de beneficioario se mostrara este contenido -->
+              <!-- Segun tipo de beneficioario se mostrara este contenido -->
               <div>
                 <div class="form-floating" >
                     <input 
@@ -231,7 +228,7 @@ function presistencia(event){
             </div>
 
             <div v-if="calculadoraTipoBeneficiario==1">
-                    El salario de los estudiantes se toma como 1 SMLV
+              El salario de los estudiantes se toma como 1 SMLV
             </div>
           </div>
           <br>
@@ -239,22 +236,17 @@ function presistencia(event){
         
           <div><!-- Composicion de Detalle de los viaticos: CALCULO DE LOS VIATICOS -->
             <h5>Calculo de viaticos</h5>
-            <div class="form-check form-switch" hidden>
+            <div class="form-check form-switch">
               <label class="form-check-label" for="movilidadInternaciional">Internacional</label>
-              <input class="form-check-input" type="checkbox" name="" id="movilidadInternaciional" v-model="movilidadInternacional" disabled>
+              <input class="form-check-input" type="checkbox" v-model="movilidadInternacional">
+              <div>{{ movilidadInternacional }}</div>
+              
             </div>
             
             <!--EN DESARROLO Internacional -->
-            <div v-if="movilidadInternacional==1">
-              <label for="destinoInternacional">Seleecione el Pais</label>
-                <input list="countries" name="" id="destinoInternacional" v-model="destinoInternacional">
-              <datalist id="countries">
-                <option v-for="country in countries" :key="country.codigo_pais" :value="country.nombre_pais">{{}}</option>           
-              </datalist>
-            </div>
-              
-            <div  class="row"><!--CARRO DE COMPRAS VIATICOS-->
-              <div class="col-6" v-show="movilidadInternacional==0">
+              <div  class="row"><!--CARRO DE COMPRAS VIATICOS-->
+
+              <div class="col-6" v-show="movilidadInternacional==false"><!--Movilidad Nacional-->
                 <div class="form-check form-switch"><!---Pernoctar-->
                  <label class="form-check-label" for="calculadoraMovilidadInternorPernoctar">Pernoctacion</label>
                  <input class="form-check-input"  type="checkbox" id="calculadoraMovilidadInternorPernoctar" v-model="pernoctar">
@@ -265,7 +257,10 @@ function presistencia(event){
                   <input class="form-check-input" type="checkbox" id="calculadoraMovilidadInteriorDistancia" v-model="distancia">
                 </div>
               </div>
-              <div class="col-6">
+              <div class="col-6" v-show="movilidadInternacional==true">  
+                Datos internacionales
+              </div>
+              <div class="col-6"><!--Dias y Boton Guardar-->
                 <div class="row">
                   <div class="col-4">
                     <div class="form-floating">
@@ -365,9 +360,7 @@ function presistencia(event){
                 </tr>
               </tbody>
             </table>
-          </div>
-         
-        
+          </div>                
         </div>
 
     </div>
