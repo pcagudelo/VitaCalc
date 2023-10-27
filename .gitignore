@@ -26,3 +26,7 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+dist/*
+src/components/icons/bootstrap-icon-test
+

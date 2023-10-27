@@ -340,8 +340,8 @@ function presistencia(event){
                    Perno..
                   </th>
                   <th>Dist...</th>
-                  <th><img src="./components/icons/bootstrap-icons-test/currency-dollar.svg" alt="Pesos" width="20" height="20">Diario</th>
-                  <th><img src="./components/icons/bootstrap-icons-test/substack.svg" alt="Pesos" width="20" height="20"> Subtotal</th>
+                  <th><img src="./components/icons/bootstrap-icons/currency-dollar.svg" alt="Pesos" width="20" height="20">Diario</th>
+                  <th><img src="./components/icons/bootstrap-icons/substack.svg" alt="Pesos" width="20" height="20"> Subtotal</th>
                   <th>Eliminar</th>
                 </tr>
               </thead>
@@ -356,7 +356,7 @@ function presistencia(event){
                   <td>{{ moneda(viatico.valor) }}</td>
                   <td>{{ moneda(viatico.sub) }}</td>
                   <td class="text-center">                                
-                    <img src="./components/icons/bootstrap-icons-test/trash.svg" alt="eliminar" width="20" height="20" class="text-danger text-center" fill="currentColor" @click="elimarItem(index)" >
+                    <img src="./components/icons/bootstrap-icons/trash.svg" alt="eliminar" width="20" height="20" class="text-danger text-center" fill="currentColor" @click="elimarItem(index)" >
                   </td>
                 </tr>
                 <!--Totales de tabla-->
