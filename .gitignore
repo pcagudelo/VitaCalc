@@ -28,5 +28,5 @@ coverage
 *.sw?
 
 dist/*
-src/components/icons/bootstrap-icon-test
+src/components/icons/bootstrap-icon-test/
 
